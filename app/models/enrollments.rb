@@ -1,0 +1,2 @@
+class Enrollments < ApplicationRecord
+end
